@@ -1,6 +1,7 @@
 # ManifestSpawn
-Simple & Lightweight Spawn Plugin
-Commands
-/spawn
-/setspawn
+Simple & Lightweight Spawn Plugin</br>
+</br>
+### Commands</br>
+/spawn</br>
+/setspawn</br>
 /msreload
