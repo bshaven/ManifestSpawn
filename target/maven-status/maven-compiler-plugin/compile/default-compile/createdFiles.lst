@@ -1,0 +1,4 @@
+com\bshaven\manifestspawn\commands\SetSpawn.class
+com\bshaven\manifestspawn\commands\MsReload.class
+com\bshaven\manifestspawn\commands\Spawn.class
+com\bshaven\manifestspawn\ManifestSpawn.class
